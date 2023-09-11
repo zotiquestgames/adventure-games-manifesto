@@ -4,7 +4,9 @@ We revive a historically attested term free from modern divisions. Our principle
 
 This manifesto avoids identifiers that alienate. We do not wage culture wars or indulge harmful nostalgia. Our principles stand on their own merits, rooted in RPGs' original promise. We focus not on what splinters the community but on what brings an imaginative spirit of adventure to every group. This language cannot be adopted as cover for non-inclusive play. 
 
-This document consists of two parts: the actual manifesto in typical language and a part of game and design principles to make its content factual.
+This document consists of two parts: 
+- the actual manifesto in typical language
+- game and design principles to make its content factual.
 
 If you recognize yourself in what is written, you may adopt, reuse and improve it under the terms of the CC-BY-SA license under which it is released
 
